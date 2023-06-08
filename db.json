@@ -26,7 +26,7 @@
     },
     {
       "id": 2,
-      "nombreProduto": "Harry Poter",
+      "nomeProduto": "Harry Poter",
       "urlImg": "https://image.api.playstation.com/vulcan/ap/rnd/202208/0921/dR9KJAKDW2izPbptHQbh3rnj.png",
       "categoria": "tendencia",
       "preco": "100",
@@ -105,7 +105,7 @@
       "id": 10
     },
     {
-      "nombreProducto": "Marvel's Spider-Man Remastered",
+      "nomeProduto": "Marvel's Spider-Man Remastered",
       "urlImg": "https://cdn1.epicgames.com/offer/4bc43145bb8245a5b5cc9ea262ffbe0e/EGS_MarvelsSpiderManRemastered_InsomniacGamesNixxesSoftware_S1_2560x1440-73702d11161b29a0b7c40a8b489b1808",
       "categoria": "tendencia",
       "preco": "59.99",
