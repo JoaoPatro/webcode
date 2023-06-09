@@ -60,7 +60,7 @@
       "categoria": "aventura",
       "preco": "200",
       "desconto": "27",
-      "descricao": "Seis años después de Raccoon City, el telón revela un angustioso rescate.",
+      "descricao": "Seis anos depois de Raccoon City, a cortina cai sobre um resgate angustiante.",
       "precoFinal": "146",
       "id": 6
     },
@@ -80,7 +80,7 @@
       "categoria": "aventura",
       "preco": "139",
       "desconto": "90",
-      "descricao": "Una aventura de dimensiones galácticas te espera en STAR WARS Jedi: Fallen Order, un juego de acción-aventura en tercera persona de Respawn Entertainment.",
+      "descricao": "Uma aventura galáctica espera por você em STAR WARS Jedi: Fallen Order, um jogo de ação e aventura em terceira pessoa da Respawn Entertainment.",
       "precoFinal": "13.90",
       "id": 8
     },
@@ -90,7 +90,7 @@
       "categoria": "tendencia",
       "preco": "59.99",
       "desconto": "49",
-      "descricao": "God of War es un videojuego de acción con algunos elementos de RPG, desarrollado por Santa Monica Studio y lanzado gracias a PlayStation PC LLC en el año 2022.",
+      "descricao": "God of War é um videogame de ação com alguns elementos de RPG, desenvolvido pelo Santa Monica Studio e lançado graças ao PlayStation PC LLC no ano de 2022.",
       "precoFinal": "30.59",
       "id": 9
     },
@@ -100,7 +100,7 @@
       "categoria": "tendencia",
       "preco": "55.9",
       "desconto": "19",
-      "descricao": "FIFA 23 es un videojuego de simulación de fútbol publicado por Electronic Arts. Es la trigésima entrega de la serie FIFA desarrollada por EA Sports, y la última entrega bajo el estandarte de FIFA",
+      "descricao": "FIFA 23 é um videogame de simulação de futebol publicado pela Electronic Arts. É a trigésima edição da série FIFA desenvolvida pela EA Sports e a última sob a bandeira da FIFA.",
       "precoFinal": "45.28",
       "id": 10
     },
@@ -110,7 +110,7 @@
       "categoria": "tendencia",
       "preco": "59.99",
       "desconto": "55",
-      "descricao": "Marvel's Spider-Man Remastered es un juego de 2018 para PC, desarrollado por Insomniac Games y Nixxes Software y publicado por Sony Interactive. ¡Juega a la versión remasterizada de 2022 para PC!",
+      "descricao": "Marvel's Spider-Man Remastered é um jogo para PC de 2018, desenvolvido pela Insomniac Games e Nixxes Software e publicado pela Sony Interactive. Jogue a versão remasterizada de 2022 para PC!",
       "precoFinal": "27",
       "id": 11
     },
@@ -120,7 +120,7 @@
       "categoria": "aventura",
       "preco": "169",
       "desconto": "10",
-      "descricao": "NieR: Automata narra la historia de los androides 2B, 9S y A2, que luchan para recuperar el mundo distópico dirigido por las máquinas que han invadido unas poderosas formas de vida mecánicas.",
+      "descricao": "NieR: Automata conta a história dos andróides 2B, 9S e A2, que lutam para recuperar o mundo distópico controlado por máquinas que foi invadido por poderosas formas de vida mecânicas.",
       "precoFinal": "152.10",
       "id": 12
     },
@@ -140,7 +140,7 @@
       "categoria": "terror",
       "preco": "20",
       "desconto": "11",
-      "descricao": "Sons of the Forest es un videojuego desarrollado por Endnight Games de terror y supervivencia, publicado por Newnight. Fue lanzado el 23 de Febrero de 2023 mediante un acceso anticipado para Microsoft Windows. Es la secuela del popular videojuego de 2014 The Forest.",
+      "descricao": "Sons of the Forest é um videogame de survival horror desenvolvido pela Endnight Games, publicado pela Newnight.. Es la secuela del popular videojuego de 2014 The Forest.",
       "precoFinal": "17.80",
       "id": 14
     },
@@ -150,7 +150,7 @@
       "categoria": "terror",
       "preco": "7.52",
       "desconto": "5",
-      "descricao": "La III Guerra Mundial vino y se fue, y lo único que queda eres tú, algunos animales salvajes y hordas de zombis. En 7 Days to Die Early Access tienes que defenderte de hordas de muertos vivientes que se vuelven cada vez más peligrosos.",
+      "descricao": "A Terceira Guerra Mundial veio e se foi, e tudo o que resta é você, alguns animais selvagens e hordas de zumbis. ",
       "precoFinal": "7.14",
       "id": 15
     },
@@ -170,7 +170,7 @@
       "categoria": "estrategia",
       "preco": "5.19",
       "desconto": "15",
-      "descricao": "Sid Meier's Civilization VI o Civilization VI es un videojuego de estrategia por turnos perteneciente a la serie Civilization. El juego fue desarrollado por Firaxis Games y distribuido por 2K Games y Take-Two Interactive.",
+      "descricao": "Sid Meier's Civilization VI ou Civilization VI é um videogame de estratégia baseado em turnos pertencente à série Civilization.",
       "precoFinal": "4.41",
       "id": 17
     }
