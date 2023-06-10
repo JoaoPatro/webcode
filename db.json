@@ -25,14 +25,15 @@
       "id": 1
     },
     {
-      "id": 2,
+      
       "nomeProduto": "Harry Poter",
       "urlImg": "https://image.api.playstation.com/vulcan/ap/rnd/202208/0921/dR9KJAKDW2izPbptHQbh3rnj.png",
       "categoria": "tendencia",
       "preco": "100",
       "desconto": "10",
       "descricao": "Get the best deals on Hogwarts Legacy (PC) - Steam Key - EUROPE at the most attractive prices on the market.",
-      "precoFinal": "90"
+      "precoFinal": "90",
+      "id": 2
     },
     {
       "nomeProduto": "Dead Space Remake (PC) - Origin Key - GLOBAL",
@@ -140,7 +141,7 @@
       "categoria": "terror",
       "preco": "20",
       "desconto": "11",
-      "descricao": "Sons of the Forest é um videogame de survival horror desenvolvido pela Endnight Games, publicado pela Newnight.. Es la secuela del popular videojuego de 2014 The Forest.",
+      "descricao": "Sons of the Forest é um videogame de survival horror desenvolvido pela Endnight Games, publicado pela Newnight.",
       "precoFinal": "17.80",
       "id": 14
     },
